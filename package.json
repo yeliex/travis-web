@@ -102,10 +102,7 @@
     "visibilityjs": "^1.2.6",
     "yamljs": "^0.3.0"
   },
-  "engines": {
-    "node": "8.5.0",
-    "npm": "5.4.2"
-  },
+  "engines": {},
   "dependencies": {
     "watchman": "^1.0.0"
   }
